@@ -7,7 +7,7 @@ This project demonstrates a clean analytical workflow suitable for retail and e-
 
 ## Files
 - `customer_sales.csv` — Source dataset.
-- `customer_sales_analysis.py` — Python script performing full EDA and visualization.
+- `customer_sales_analytics.py` — Python script performing full EDA and visualization.
 
 ---
 
